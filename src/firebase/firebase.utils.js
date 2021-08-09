@@ -3,12 +3,12 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyCMOM-BtPb-HzJMIhOe_H6kwUm4rnVS87s",
-  authDomain: "crown-clothing-app-eb196.firebaseapp.com",
-  projectId: "crown-clothing-app-eb196",
-  storageBucket: "crown-clothing-app-eb196.appspot.com",
-  messagingSenderId: "1046346636878",
-  appId: "1:1046346636878:web:c9e07cfc9d79e2982aed1f"
+	apiKey: "AIzaSyCMOM-BtPb-HzJMIhOe_H6kwUm4rnVS87s",
+	authDomain: "crown-clothing-app-eb196.firebaseapp.com",
+	projectId: "crown-clothing-app-eb196",
+	storageBucket: "crown-clothing-app-eb196.appspot.com",
+	messagingSenderId: "1046346636878",
+	appId: "1:1046346636878:web:c9e07cfc9d79e2982aed1f",
 };
 
 firebase.initializeApp(config);
